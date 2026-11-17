@@ -2,3 +2,6 @@
 
 *.swf
 *.swc
+# Keep published binaries alongside XFL sources
+!SRC_XFL/**/*.swf
+!SRC_XFL/**/*.swc
